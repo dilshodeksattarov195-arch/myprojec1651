@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercalidate",
+        "uuid": 11137646,
+        "checksum": "fud4z"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
